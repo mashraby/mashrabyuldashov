@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mashrab Yo'ldashov</h1>
 <h3 align="center">I'm FullStack Web Developer from Uzbekistan 👨🏻‍💻</h3>
 
-<img align="right" width="400" src="https://www.linkedin.com/pulse/wordpress-vs-web-developer-whats-difference-zuraiz-khan" />
+<img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashrabyuldashov&label=Profile%20views&color=0e75b6&style=flat" alt="mashrabyuldashov" /> </p>
 
